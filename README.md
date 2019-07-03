@@ -12,7 +12,8 @@ Python lab 1 course ITMO
 
 Чтобы получить исходный код страницы достаточно выполнить GET запрос. 
 URL, к которому мы будем обращаться, имеет следующий формат:
-< http://www.ifmo.ru/ru/schedule/0/GROUP/WEEK/raspisanie_zanyatiy_GROUP.htm >
+
+http://www.ifmo.ru/ru/schedule/0/GROUP/WEEK/raspisanie_zanyatiy_GROUP.htm 
 
 Запустить бота можно следующим образом:
 ```bash
